@@ -1,1 +1,636 @@
-
+{
+  "title": "Gemini Developer API | Gemma open models | Google AI for Developers",
+  "url": "https://ai.google.dev/"
+}
+{
+  "title": "Google DeepMind",
+  "url": "https://deepmind.google/"
+}
+{
+  "title": "Gemini 3 — Google DeepMind",
+  "url": "https://deepmind.google/models/gemini/"
+}
+{
+  "title": "Generative AI on Vertex AI | Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs"
+}
+{
+  "title": "Google AI Studio",
+  "url": "https://aistudio.google.com/app/prompts/new_chat?utm_source=gfd&utm_medium=referral&utm_campaign=home_garden&utm_content="
+}
+{
+  "title": "Google AI Studio’s Interactions API for Gemini models and agents",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api/"
+}
+{
+  "title": "TensorFlow",
+  "url": "https://www.tensorflow.org/"
+}
+{
+  "title": "Google Research - Explore Our Latest Research in Science and AI",
+  "url": "https://research.google/"
+}
+{
+  "title": "Google AI - How we're making AI helpful for everyone - Google AI",
+  "url": "https://ai.google/?utm_source=researchgoogle&utm_medium=google-oo&utm_campaign=November2024&utm_content=footer"
+}
+{
+  "title": "Google Labs: Google's home for AI experiments - Google Labs",
+  "url": "https://labs.google/"
+}
+{
+  "title": "AI and ML | Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/ai-ml"
+}
+{
+  "title": "Gemini API | Google AI for Developers",
+  "url": "https://ai.google.dev/gemini-api/docs"
+}
+{
+  "title": "Gemini API reference | Google AI for Developers",
+  "url": "https://ai.google.dev/api"
+}
+{
+  "title": "Gemini Apps Help",
+  "url": "https://support.google.com/gemini/?hl=en&sjid=16656038406708470165-EU#topic=13194540"
+}
+{
+  "title": "Gemini Cloud Assist: AI-assisted cloud operations and management | Google Cloud",
+  "url": "https://cloud.google.com/products/gemini/cloud-assist?_gl=1*1l96atz*_ga*MjU0MTk1MDI1LjE3NzEzMDU3NjA.*_ga_WH2QY8WWF5*czE3NzEzNTc1NzckbzMkZzEkdDE3NzEzNTg5NzAkajUwJGwwJGgw#features"
+}
+{
+  "title": "Gemini for Google Cloud documentation | Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/gemini/docs"
+}
+{
+  "title": "Gemini for Google Cloud pricing | Google Cloud",
+  "url": "https://cloud.google.com/products/gemini/pricing"
+}
+{
+  "title": "Firebase | Google's Mobile and Web App Development Platform",
+  "url": "https://firebase.google.com/"
+}
+{
+  "title": "AI and Cloud Computing Services | Google Cloud",
+  "url": "https://cloud.google.com/"
+}
+{
+  "title": "Android Mobile App Developer Tools - Android Developers",
+  "url": "https://developer.android.com/"
+}
+{
+  "title": "Colab | Google for Developers",
+  "url": "https://developers.google.com/colab"
+}
+{
+  "title": "Build, debug & deploy with AI | Gemini CLI",
+  "url": "https://geminicli.com/"
+}
+{
+  "title": "gemini-deep-research",
+  "url": "https://geminicli.com/extensions/?name=allenhutchisongemini-cli-deep-research"
+}
+{
+  "title": "GitHub - google-gemini/gemini-cli: An open-source AI agent",
+  "url": "https://github.com/google-gemini/gemini-cli"
+}
+{
+  "title": "gemini-cli/README.md at main · google-gemini/gemini-cli",
+  "url": "https://github.com/google-gemini/gemini-cli/blob/main/README.md"
+}
+{
+  "title": "GitHub - allenhutchison/gemini-cli-deep-research",
+  "url": "https://github.com/allenhutchison/gemini-cli-deep-research"
+}
+{
+  "title": "Google for Developers - from AI and Cloud to Mobile and Web",
+  "url": "https://developers.google.com/"
+}
+{
+  "title": "Google Workspace | Google for Developers",
+  "url": "https://developers.google.com/workspace"
+}
+{
+  "title": "Open Health Stack | Google for Developers",
+  "url": "https://developers.google.com/open-health-stack"
+}
+{
+  "title": "Code Wiki",
+  "url": "https://codewiki.google/"
+}
+{
+  "title": "Google Workspace Learning Center",
+  "url": "https://support.google.com/a/users?hl=en#topic=11499463"
+}
+{
+  "title": "Google Workspace Learning Center (EU)",
+  "url": "https://support.google.com/a/users?sjid=12946560036334371787-EU#topic=11499463"
+}
+{
+  "title": "Discover - Google Workspace Studio",
+  "url": "https://workspace.google.com/studio/"
+}
+{
+  "title": "Google Workspace Studio: Automate Workflows with Agentic AI",
+  "url": "https://workspace.google.com/studio/"
+}
+{
+  "title": "Gemini Code Assist | AI coding assistant",
+  "url": "https://codeassist.google/"
+}
+{
+  "title": "Use the Gemini Code Assist agent mode | Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/gemini/docs/codeassist/use-agentic-chat-pair-programmer"
+}
+{
+  "title": "Code with Gemini Code Assist | Cloud Code for Cloud Shell",
+  "url": "https://docs.cloud.google.com/code/docs/shell/write-code-gemini"
+}
+{
+  "title": "Billing and payments | Billing & subscriptions | Google Workspace Help",
+  "url": "https://knowledge.workspace.google.com/admin/billing/billing-and-payments"
+}
+{
+  "title": "Google Help",
+  "url": "https://support.google.com/"
+}
+{
+  "title": "Daring Fireball: Markdown Syntax Documentation",
+  "url": "https://daringfireball.net/projects/markdown/syntax"
+}
+{
+  "title": "Daring Fireball: Markdown Basics",
+  "url": "https://daringfireball.net/projects/markdown/basics"
+}
+{
+  "title": "Basic writing and formatting syntax - GitHub Docs",
+  "url": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"
+}
+{
+  "title": "LaTeX/Mathematics - Wikibooks, open books for an open world",
+  "url": "https://en.wikibooks.org/wiki/LaTeX/Mathematics"
+}
+{
+  "title": "LaTeX/Advanced Mathematics - Wikibooks, open books for an open world",
+  "url": "https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics"
+}
+{
+  "title": "LaTeX - Wikibooks, open books for an open world",
+  "url": "https://en.wikibooks.org/wiki/LaTeX"
+}
+{
+  "title": "LaTeX Documentation",
+  "url": "https://www.latex-project.org/help/documentation/"
+}
+{
+  "title": "MediaWiki2LaTeX",
+  "url": "https://mediawiki2latex.wmcloud.org/"
+}
+{
+  "title": "LaTeX - Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/LaTeX"
+}
+{
+  "title": "Manual:Pywikibot/Overview - MediaWiki",
+  "url": "https://www.mediawiki.org/wiki/Manual:Pywikibot/Overview"
+}
+{
+  "title": "Manual:Pywikibot/Workshop Materials/How to run basic scripts (self-study)",
+  "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Workshop_Materials/How_to_run_basic_scripts_(self-study)"
+}
+{
+  "title": "Gentoo Wiki",
+  "url": "https://wiki.gentoo.org/"
+}
+{
+  "title": "Gentoo Forums",
+  "url": "https://forums.gentoo.org/"
+}
+{
+  "title": "Gentoo's Bugzilla",
+  "url": "https://bugs.gentoo.org/"
+}
+{
+  "title": "Gentoo Packages",
+  "url": "https://packages.gentoo.org/"
+}
+{
+  "title": "Planet Gentoo",
+  "url": "https://planet.gentoo.org/"
+}
+{
+  "title": "Gentoo Linux",
+  "url": "https://www.gentoo.org/"
+}
+{
+  "title": "Linux Foundation - Decentralized innovation, built with trust",
+  "url": "https://www.linuxfoundation.org/"
+}
+{
+  "title": "About Us",
+  "url": "https://www.mozilla.org/about/"
+}
+{
+  "title": "Get Involved",
+  "url": "https://www.mozilla.org/contribute/"
+}
+{
+  "title": "Firefox Support",
+  "url": "https://support.mozilla.org/products/firefox"
+}
+{
+  "title": "Customize Firefox",
+  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+}
+{
+  "title": "Scrimba",
+  "url": "https://scrimba.com/"
+}
+{
+  "title": "Google Skills",
+  "url": "https://www.skills.google/"
+}
+{
+  "title": "Learn Your Way",
+  "url": "https://learnyourway.withgoogle.com/"
+}
+{
+  "title": "Jason Spielman",
+  "url": "https://jasonspielman.com/"
+}
+{
+  "title": "Get started with Google Workspace Labs - Google Docs Editors Help",
+  "url": "https://support.google.com/docs/answer/13447104?sjid=6436351651007366276-EU#zippy=%2Cgoogle-drive"
+}
+{
+  "title": "Google Workspace Learning Center",
+  "url": "https://support.google.com/a/users/?hl=en&sjid=6436351651007366276-EU#topic="
+}
+{
+  "title": "Google AI Studio vs. Vertex AI vs. Gemini Enterprise | Google Cloud",
+  "url": "https://cloud.google.com/ai/gemini"
+}
+{
+  "title": "Products and Services | Google Cloud",
+  "url": "https://cloud.google.com/products?_gl=1*1141quk*_ga*MTk2OTE0MzQ5MC4xNzcxNDA1OTE2*_ga_WH2QY8WWF5*czE3NzE0MDU5MTUkbzEkZzEkdDE3NzE0MDcwNDIkajU5JGwwJGgw"
+}
+{
+  "title": "Cloud learning courses and certifications | Google Cloud",
+  "url": "https://cloud.google.com/learn"
+}
+{
+  "title": "generative_ai_leader_study_guide_english.pdf - generative_ai_leader_study_guide_english.pdf",
+  "url": "https://services.google.com/fh/files/misc/generative_ai_leader_study_guide_english.pdf"
+}
+{
+  "title": "Generative AI Leader  |  Learn  |  Google Cloud",
+  "url": "https://cloud.google.com/learn/certification/generative-ai-leader"
+}
+{
+  "title": "Generative AI Leader | Google Skills",
+  "url": "https://www.skills.google/paths/1951"
+}
+{
+  "title": "Certifications | Google Cloud",
+  "url": "https://cloud.google.com/learn/certification?hl=en"
+}
+{
+  "title": "Training resources | Google Cloud",
+  "url": "https://cloud.google.com/learn/training?hl=en"
+}
+{
+  "title": "Overview – Google Cloud Setup – razzds.net – Google Cloud console",
+  "url": "https://console.cloud.google.com/cloud-setup/overview?organizationId=145431150081"
+}
+{
+  "title": "Creating and managing organization resources  |  Resource Manager  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/resource-manager/docs/creating-managing-organization?_gl=1*1o9buz1*_ga*MTk2OTE0MzQ5MC4xNzcxNDA1OTE2*_ga_WH2QY8WWF5*czE3NzE0MDU5MTUkbzEkZzEkdDE3NzE0MTA1NzQkajU5JGwwJGgw"
+}
+{
+  "title": "Gemini for Google Cloud is here | Google Cloud Blog",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-google-cloud-is-here?e=48754805&hl=en&_gl=1*14ssuob*_ga*MTk2OTE0MzQ5MC4xNzcxNDA1OTE2*_ga_WH2QY8WWF5*czE3NzE0MDU5MTUkbzEkZzEkdDE3NzE0MTkxMjUkajQkbDAkaDA."
+}
+{
+  "title": "What is Gemini Enterprise?  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/gemini/enterprise/docs"
+}
+{
+  "title": "Google Cloud Setup guided flow  |  Get started  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/enterprise/cloud-setup"
+}
+{
+  "title": "What's New  |  What's new for Google Cloud documentation  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/whats-new"
+}
+{
+  "title": "Quickstart: Set up Cloud Identity as a Google Cloud administrator  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/identity/docs/how-to/set-up-cloud-identity-admin?visit_id=639071548486874616-295554279&rd=1"
+}
+{
+  "title": "What is NotebookLM Enterprise?  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/overview"
+}
+{
+  "title": "Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/docs"
+}
+{
+  "title": "Index - Agent Development Kit (ADK)",
+  "url": "https://google.github.io/adk-docs/"
+}
+{
+  "title": "Generative AI glossary  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/generative-ai/glossary#retrieval-augmented-generation"
+}
+{
+  "title": "Grounding overview  |  Generative AI on Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/grounding/overview"
+}
+{
+  "title": "Vertex AI RAG Engine overview  |  Generative AI on Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/rag-overview"
+}
+{
+  "title": "GitHub - google/adk-samples: A collection of sample agents built with Agent Development Kit (ADK)",
+  "url": "https://github.com/google/adk-samples"
+}
+{
+  "title": "Configure the peer VPN gateway  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/network-connectivity/docs/vpn/how-to/configuring-peer-gateway?_gl=1*m3zmbi*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MjI3MTckbzUkZzEkdDE3NzE4MzM4NzkkajU3JGwwJGgw"
+}
+{
+  "title": "Deploy or download – Google Cloud Setup – Cloud Setup Host Pr… – Google Cloud console",
+  "url": "https://console.cloud.google.com/cloud-setup/download?project=cs-host-32a9f2dfba71492aa8c592"
+}
+{
+  "title": "Deploy your foundation using Terraform downloaded from the console  |  Get started  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/enterprise/deploy-foundation-using-terraform-from-console?_gl=1*xwxb38*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4Mzk1NzckbzYkZzEkdDE3NzE4NDA0ODgkajUkbDAkaDA."
+}
+{
+  "title": "Import your Google Cloud resources into Terraform state  |  Terraform on Google Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/terraform/resource-management/import?_gl=1*xwxb38*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4Mzk1NzckbzYkZzEkdDE3NzE4NDA0ODgkajUkbDAkaDA."
+}
+{
+  "title": "Configure the peer VPN gateway  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/network-connectivity/docs/vpn/how-to/configuring-peer-gateway?_gl=1*m3zmbi*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MjI3MTckbzUkZzEkdDE3NzE4MzM4NzkkajU3JGwwJGgw"
+}
+{
+  "title": "Infrastructure as Code on Google Cloud  |  Terraform on Google Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/terraform/iac-overview"
+}
+{
+  "title": "Shared VPC  |  Virtual Private Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vpc/docs/shared-vpc?_gl=1*11eyrcu*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTcyMDckajMwJGwwJGgw#use_cases"
+}
+{
+  "title": "Cloud VPN overview  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/network-connectivity/docs/vpn/concepts/overview?_gl=1*11eyrcu*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTcyMDckajMwJGwwJGgw#network-bandwidth"
+}
+{
+  "title": "VPC-native clusters  |  GKE networking  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/kubernetes-engine/docs/concepts/alias-ips?_gl=1*oqv6s1*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTc0MzUkajYwJGwwJGgw#cluster_sizing"
+}
+{
+  "title": "Private services access  |  Virtual Private Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vpc/docs/private-services-access?_gl=1*oqv6s1*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTc0MzUkajYwJGwwJGgw"
+}
+{
+  "title": "Global, regional, and zonal resources  |  Compute Engine  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources?_gl=1*16zumd3*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTc2MjckajYwJGwwJGgw#regionalresources"
+}
+{
+  "title": "Log on-premises resources with BindPlane  |  Cloud Architecture Center  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/architecture/logging-on-premises-resources-with-bindplane?_gl=1*1btzko9*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTYzNzIkajU5JGwwJGgw"
+}
+{
+  "title": "Security Command Center overview  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/security-command-center/docs/security-command-center-overview?_gl=1*15ks9qu*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTU2ODMkajU5JGwwJGgw"
+}
+{
+  "title": "Google Cloud Platform/API Project: Request Billing Quota Increase - Google Developers Help",
+  "url": "https://support.google.com/code/contact/billing_quota_increase"
+}
+{
+  "title": "Single-agent AI system using ADK and Cloud Run  |  Cloud Architecture Center  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/architecture/single-agent-ai-system-adk-cloud-run"
+}
+{
+  "title": "Vertex AI RAG Engine overview  |  Generative AI on Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/rag-overview"
+}
+{
+  "title": "adk-samples/python/agents/RAG at main · google/adk-samples · GitHub",
+  "url": "https://github.com/google/adk-samples/tree/main/python/agents/RAG"
+}
+{
+  "title": "Set up a project and a development environment  |  Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/docs/start/cloud-environment#gcloud"
+}
+{
+  "title": "Vertex AI in express mode overview  |  Generative AI on Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/start/express-mode/overview#endexpressmode"
+}
+{
+  "title": "Set up ADC for a resource with an attached service account  |  Authentication  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/authentication/set-up-adc-attached-service-account"
+}
+{
+  "title": "Quickstart: Install the Google Cloud CLI  |  Google Cloud SDK  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/sdk/docs/install-sdk"
+}
+{
+  "title": "Google Cloud Setup guided flow  |  Get started  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/enterprise/cloud-setup?cloudshell=true#establish-organization-administrators-billing"
+}
+{
+  "title": "Google Cloud Setup guided flow  |  Get started  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/enterprise/cloud-setup?_gl=1*ccxlea*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE3OTY0MjQkbzEkZzEkdDE3NzE4MDQzNjckajI3JGwwJGgw#checklist-section-2"
+}
+{
+  "title": "Identity management for Google Cloud  |  Identity and Access Management (IAM)  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/iam/docs/google-identities"
+}
+{
+  "title": "Service accounts overview  |  Identity and Access Management (IAM)  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/iam/docs/service-account-overview"
+}
+{
+  "title": "Secret Manager overview  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/secret-manager/docs/overview?sjid=9566535351105538071-EU"
+}
+{
+  "title": "Cloud Assist Investigations – Cloud Assist Invest… – common – Google Cloud console",
+  "url": "https://console.cloud.google.com/troubleshooting/investigations/list?project=common-488316"
+}
+{
+  "title": "REST Resource: projects.locations.investigations  |  Gemini for Google Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/gemini/docs/geminicloudassist/reference/rest/v1alpha/projects.locations.investigations"
+}
+{
+  "title": "Troubleshoot issues with Cloud Assist Investigations  |  Gemini Cloud Assist  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/cloud-assist/investigations?_gl=1*1nj4bjn*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4Nzk0MjckbzYkZzEkdDE3NzE4ODkyMDUkajQyJGwwJGgw#products"
+}
+{
+  "title": "Password",
+  "url": "https://myaccount.google.com/signinoptions/password?gar=WzE5MV0&continue=https://myaccount.google.com/payments-and-subscriptions?gar%3DWzE5MV0%26hl%3Den%26utm_source%3DOGB%26utm_medium%3Dact&rapt=AEjHL4Og266gsFA5IiSv3kneKjDcM-6Ei-p2-2zc5r2qqgnmIsi1d6omfDEv48U9qead5s6ieAlAx7uKAZbrNMwAWVo1VRB9pCTfAeIdIIO8emPNK1QmT4s"
+}
+{
+  "title": "Manage your Google Workspace organization | Terraform | HashiCorp Developer",
+  "url": "https://developer.hashicorp.com/terraform/tutorials/it-saas/google-workspace"
+}
+{
+  "title": "Network Intelligence Centers",
+  "url": "https://docs.cloud.google.com/network-intelligence-center/docs"
+}
+{
+  "title": "Policy Simulator",
+  "url": "https://docs.cloud.google.com/iam/docs/simulating-access"
+}
+{
+  "title": "Policy Analyzer",
+  "url": "https://docs.cloud.google.com/asset-inventory/docs/analyzing-iam-policy"
+}
+{
+  "title": "Policy Troubleshooter",
+  "url": "https://docs.cloud.google.com/iam/docs/troubleshooting-access"
+}
+{
+  "title": "Firewall Insights",
+  "url": "https://docs.cloud.google.com/network-intelligence-center/docs/firewall-insights/how-to/using-firewall-insights"
+}
+{
+  "title": "What is Active Assist  |  Recommender  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/recommender/docs/whatis-activeassist"
+}
+{
+  "title": "Google Cloud Service Health",
+  "url": "https://status.cloud.google.com/summary"
+}
+{
+  "title": "Get Cloud Billing support  |  Cloud Customer Care  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/support/docs/get-billing-support?sjid=14102515569732978705-EU"
+}
+{
+  "title": "Cloud Platform support - Google Cloud Platform Console Help",
+  "url": "https://support.google.com/cloud/answer/6282346"
+}
+{
+  "title": "OAuth Application Rate Limits - Google Cloud Platform Console Help",
+  "url": "https://support.google.com/cloud/answer/9028764?sjid=894760736658919834-NA"
+}
+{
+  "title": "Creating and managing projects  |  Resource Manager  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/resource-manager/docs/creating-managing-projects#managing_project_quotas"
+}
+{
+  "title": "Visit the Google Workspace Learning Center",
+  "url": "https://gsuite.google.com/learning-center/?utm_medium=referral&utm_source=https://support.google.com/a/answer/7281227?hl=en-GB&amp;visit_id=639075480059297921-765353815&amp;p=app_access_apps&amp;rd=1"
+}
+{
+  "title": "Control which apps access Google Workspace data - Google Workspace Admin Help",
+  "url": "https://support.google.com/a/answer/7281227?hl=en-GB&visit_id=639075480059297921-765353815&p=app_access_apps&rd=1#reviewapps&zippy=%2Cunconfigured-third-party-apps"
+}
+{
+  "title": "Infrastructure as Code on Google Cloud  |  Terraform on Google Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/terraform/iac-overview"
+}
+{
+  "title": "Google Cloud Platform/API Project: Request Billing Quota Increase - Google Developers Help",
+  "url": "https://support.google.com/code/contact/billing_quota_increase"
+}
+{
+  "title": "Introducing Google Cloud Jump Start Solutions | Google Cloud Blog",
+  "url": "https://cloud.google.com/blog/products/application-modernization/introducing-google-cloud-jump-start-solutions?_gl=1*1l8ujbl*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4NDQxMTEkbzQkZzEkdDE3NzE4NDQ2NTkkajM5JGwwJGgw"
+}
+{
+  "title": "Terraform on Google Cloud documentation  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/terraform"
+}
+{
+  "title": "Import your Google Cloud resources into Terraform state  |  Terraform on Google Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/terraform/resource-management/import?_gl=1*xwxb38*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4Mzk1NzckbzYkZzEkdDE3NzE4NDA0ODgkajUkbDAkaDA."
+}
+{
+  "title": "Configure the peer VPN gateway  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/network-connectivity/docs/vpn/how-to/configuring-peer-gateway?_gl=1*m3zmbi*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MjI3MTckbzUkZzEkdDE3NzE4MzM4NzkkajU3JGwwJGgw"
+}
+{
+  "title": "Shared VPC  |  Virtual Private Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vpc/docs/shared-vpc?_gl=1*11eyrcu*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTcyMDckajMwJGwwJGgw#use_cases"
+}
+{
+  "title": "Cloud VPN overview  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/network-connectivity/docs/vpn/concepts/overview?_gl=1*11eyrcu*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTcyMDckajMwJGwwJGgw#network-bandwidth"
+}
+{
+  "title": "VPC-native clusters  |  GKE networking  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/kubernetes-engine/docs/concepts/alias-ips?_gl=1*oqv6s1*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTc0MzUkajYwJGwwJGgw#cluster_sizing"
+}
+{
+  "title": "Private services access  |  Virtual Private Cloud  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vpc/docs/private-services-access?_gl=1*oqv6s1*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTc0MzUkajYwJGwwJGgw"
+}
+{
+  "title": "Global, regional, and zonal resources  |  Compute Engine  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources?_gl=1*16zumd3*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTc2MjckajYwJGwwJGgw#regionalresources"
+}
+{
+  "title": "Log on-premises resources with BindPlane  |  Cloud Architecture Center  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/architecture/logging-on-premises-resources-with-bindplane?_gl=1*1btzko9*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTYzNzIkajU5JGwwJGgw"
+}
+{
+  "title": "Security Command Center overview  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/security-command-center/docs/security-command-center-overview?_gl=1*15ks9qu*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE4MTMwMzckbzMkZzEkdDE3NzE4MTU2ODMkajU5JGwwJGgw"
+}
+{
+  "title": "Single-agent AI system using ADK and Cloud Run  |  Cloud Architecture Center  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/architecture/single-agent-ai-system-adk-cloud-run"
+}
+{
+  "title": "Vertex AI RAG Engine overview  |  Generative AI on Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/rag-engine/rag-overview"
+}
+{
+  "title": "Set up a project and a development environment  |  Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/docs/start/cloud-environment#gcloud"
+}
+{
+  "title": "Vertex AI in express mode overview  |  Generative AI on Vertex AI  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/start/express-mode/overview#endexpressmode"
+}
+{
+  "title": "Set up ADC for a resource with an attached service account  |  Authentication  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/authentication/set-up-adc-attached-service-account"
+}
+{
+  "title": "Quickstart: Install the Google Cloud CLI  |  Google Cloud SDK  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/sdk/docs/install-sdk"
+}
+{
+  "title": "Google Cloud Setup guided flow  |  Get started  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/enterprise/cloud-setup?cloudshell=true#establish-organization-administrators-billing"
+}
+{
+  "title": "Google Cloud Setup guided flow  |  Get started  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/enterprise/cloud-setup?_gl=1*ccxlea*_ga*MjExMjQ3Mjk0Mi4xNzcxNzk2NDI0*_ga_WH2QY8WWF5*czE3NzE3OTY0MjQkbzEkZzEkdDE3NzE4MDQzNjckajI3JGwwJGgw#checklist-section-2"
+}
+{
+  "title": "Identity management for Google Cloud  |  Identity and Access Management (IAM)  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/iam/docs/google-identities"
+}
+{
+  "title": "Cloud Security Best Practices Center | Google Cloud",
+  "url": "https://cloud.google.com/security/best-practices"
+}
+{
+  "title": "Roles for service account authentication  |  Identity and Access Management (IAM)  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/iam/docs/service-account-permissions"
+}
+{
+  "title": "Turn Google Cloud on or off for users - Google Workspace Admin Help",
+  "url": "https://support.google.com/a/answer/9197205"
+}
+{
+  "title": "Authentication methods at Google  |  Google Cloud Documentation",
+  "url": "https://docs.cloud.google.com/docs/authentication#auth-decision-tree"
+}
